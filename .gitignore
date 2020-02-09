@@ -10,3 +10,4 @@ token.txt
 token.txt_
 .ipynb_checkpoints
 ml/
+.vscode/
